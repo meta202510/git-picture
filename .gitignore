@@ -1,0 +1,7 @@
+.remote
+node_modules
+*.txt
+.env
+.env.*
+*token*
+*secret*
